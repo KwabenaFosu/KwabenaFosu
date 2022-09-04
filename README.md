@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Cloud Engineering, DevOps & SRE
+###🌱 I’m currently learning Cloud Engineering, DevOps & SRE
 
 -->
