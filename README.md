@@ -1,2 +1,4 @@
 ### Hi there 👋
-🌱 I’m currently learning Cloud Engineering, DevOps & SRE
+👀 I’m interested in DevOps & SRE
+🌱 I’m currently learning to live in the cloud and automate infrastructure
+
