@@ -1,4 +1,8 @@
-### Hi there 👋
-👀 I’m interested in DevOps & SRE <br>
-🌱 I’m currently learning to live in the cloud and automate infrastructure
+
+    ✨ Aspiring SRE/DevOps Engineer, Learning to live in the cloud and automate the boring stuff
+    👀 I’m interested in Cloud, Data and Systems Engineering
+    💞️ I’m looking to collaborate on Devops and cloud projects
+    📫 How to reach me:
+    mail: natofosu7@gmail.com
+   
 
