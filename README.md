@@ -1,5 +1,5 @@
 
-    ✨ Aspiring SRE/DevOps Engineer, Learning to live in the cloud and automate the boring stuff
+    ✨  Learning to live in the cloud and automate the boring stuff
    
     👀 I’m interested in Cloud, Data and Systems Engineering
     
