@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾 Nathaniel here</h1>
+<h1 align="left">Hi there 👋🏾 Nathaniel here</h1>
 - 🔭 I’m interested in **systems reliability and data engineering**
 
 - 📫 You can reach me **natofosu7@gmail.com**
