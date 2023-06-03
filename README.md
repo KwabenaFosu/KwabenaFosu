@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋🏾 Nathaniel here</h1>
-- 🔭 I’m interested in **systems reliability and data engineering**
+- 🔭 I’m interested in <b>systems reliability and data engineering</b>
 
 - 📫 You can reach me **natofosu7@gmail.com**
 
