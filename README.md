@@ -1,5 +1,5 @@
 # Hi there, Nathaniel here👋🏾
-🔭 I’m interested in systems reliability and data engineering<br>🌱 I’m currently learning infrastructure tooling(Ansible,Terraform), Cloud (AWS,GCP), Python<br>👯 I’m looking to collaborate on cloud projects.<br>📫 You can reach me: natofosu7@gmail.com
+🔭 I’m interested in systems reliability and cloud engineering<br>🌱 I’m currently learning infrastructure tooling(Ansible,Terraform), Cloud (AWS,GCP), Python<br>👯 I’m looking to collaborate on cloud projects.<br>📫 You can reach me: natofosu7@gmail.com
 
 
 
